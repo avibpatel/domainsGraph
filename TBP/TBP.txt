@@ -1,0 +1,9 @@
+Family	Description	Entry
+type	Clan	Envelope	Alignment	HMM	HMM
+length	Bit
+score	E-value	Predicted
+active sites	Show/hide
+alignment
+Start	End	Start	End	From	To
+TBP	Transcription factor TFIID (or TATA-bind …	Domain	CL0407	162	244	164	243	3	84	85	110.0	4.1e-32	n/a	Show
+TBP	Transcription factor TFIID (or TATA-bind …	Domain	CL0407	252	335	252	333	1	83	85	106.6	4.6e-31	n/a	Show
