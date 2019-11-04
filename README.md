@@ -46,7 +46,7 @@ Download: `Amino Acid Conservation Scores, Confidence Intervals and Conservation
 >- RESIDUE VARIETY: The residues variety at each position of the multiple sequence alignment.
 >
 > POS	 SEQ	SCORE		COLOR	CONFIDENCE INTERVAL	CONFIDENCE INTERVAL COLORS	B/E	FUNCTION	MSA DATA	RESIDUE VARIETY
->    	    	(normalized)	        	               
+    	    	(normalized)	        	               
 >   1	   M	-0.797		  9	-0.926,-0.774			    9,9			  e	       f	   8/150	M
 >   2	   D	 0.059		  5*	-0.510, 0.400			    7,3			  e	        	   9/150	E,D
 >   3	   Q	 0.062		  5*	-0.510, 0.400			    7,3			  e	        	   9/150	V,E,Q
