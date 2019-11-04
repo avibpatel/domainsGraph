@@ -10,8 +10,17 @@ Make a folder on your computer to compile and run domains.py.
 Download Domains.py and copy it into your new folder 
 
 Step 2:
-Obtain the sequence of your protein of intersest. You can obtain this by going to uniprot (https://www.uniprot.org/uniprot/P20226). 
+Obtain the sequence of your protein of intersest and save it as TBP.seq. 
+You can obtain this by going to uniprot (https://www.uniprot.org/uniprot/P20226). 
+
+>>sp|P20226|TBP_HUMAN TATA-box-binding protein OS=Homo sapiens OX=9606 GN=TBP PE=1 SV=2
+>MDQNNSLPPYAQGLASPQGAMTPGIPIFSPMMPYGTGLTPQPIQNTNSLSILEEQQRQQQ
+>QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQAVAAAAVQQSTSQQATQGTSGQAPQ
+>LFHSQTLTTAPLPGTTPLYPSPMTPMTPITPATPASESSGIVPQLQNIVSTVNLGCKLDL
+>KTIALRARNAEYNPKRFAAVIMRIREPRTTALIFSSGKMVCTGAKSEEQSRLAARKYARV
+>VQKLGFPAKFLDFKIQNMVGSCDVKFPIRLEGLVLTHQQFSSYEPELFPGLIYRMIKPRI
+>VLLIFVSGKVVLTGAKVRAEIYEAFENIYPILKGFRKTT
 
 Step 3:
 
-Run 
+
