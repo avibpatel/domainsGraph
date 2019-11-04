@@ -3,7 +3,7 @@ Generates a figure that combines ConSurf, PSIPRED, DISOPRED and PFAM data into a
 
 An example is provided in the TBP directory.
 
-![Image of TBP](https://github.com/avibpatel/Domains/blob/master/TBP/TBP.pdf)
+![Image of TBP](https://github.com/avibpatel/Domains/blob/master/TBP/TBP.png)
 
 Step 1:
 Make a folder on your computer to compile and run domains.py.
