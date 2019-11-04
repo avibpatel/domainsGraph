@@ -151,8 +151,8 @@ aad={
 
 ### PLot ###
 plt.figure(figsize=(aa/10,5))
-plt.ylim((-.5,1.4))
-plt.xlim((1,aa))
+plt.ylim((-.5,1.6))
+plt.xlim((-25,aa))
 plt.axis('off')
 
 #consurf
@@ -220,9 +220,9 @@ for i in fragls:
     nums=i.split('-')
     rect = plt.Rectangle((int(nums[0]),-.3),(int(nums[1])-int(nums[0])),.1,fc='black')
     plt.gca().add_patch(rect)    
-    text = plt.text(int(nums[0]),-.6,str(nums[0]),horizontalalignment='left',name='Myriad Pro',size='48',weight='1')
-    text = plt.text(int(nums[1]),-.6,str(nums[1]),horizontalalignment='right',name='Myriad Pro',size='48',weight='1')
-text = plt.text(aa,-.6,str(aa),horizontalalignment='right',name='Myriad Pro',size='48',weight='1')
+    text = plt.text(int(nums[0]),-.65,str(nums[0]),horizontalalignment='left',name='Myriad Pro',size='48',weight='1')
+    text = plt.text(int(nums[1]),-.65,str(nums[1]),horizontalalignment='right',name='Myriad Pro',size='48',weight='1')
+text = plt.text(aa,1.5,str(aa),horizontalalignment='right',name='Myriad Pro',size='48',weight='1')
 
 plt.savefig(protein + ".svg", transparent=True)
 plt.savefig(protein + ".pdf", transparent=True)
