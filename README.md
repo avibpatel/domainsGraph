@@ -53,6 +53,13 @@ Whats the color do you want the protein to be: `red`
        - TBP.pdf is the smallest and easiiest file to work with if you do not plan on editing the figure
        - TBP.svg is more easily editable version of TBP.pdf
        - TBP_seq.svg contains the sequence of TBP embeded into the figure. This can be useful for model building... or showing a zoomed in view of a specific part of your protein. 
+       
+## Citations
+
+- Consurf (http://consurf.tau.ac.il/credits.php)
+- PSIPRED (http://bioinf.cs.ucl.ac.uk/index.php?id=780)
+- DISOPRED (http://bioinf.cs.ucl.ac.uk/index.php?id=780)
+- PFAM (https://pfam.xfam.org/)
 
     
 
