@@ -8,12 +8,12 @@ An example of files needed and resulting output is provided in the TBP directory
 ## Procedure
 
 #### Step 1:
-Make a folder on your computer to compile and run domains.py.
-Download Domains.py and copy it into your new folder 
+- Make a folder on your computer to compile and run domains.py.
+- Download Domains.py and copy it into your new folder 
 
 #### Step 2:
-Obtain the sequence of your protein of intersest and save it as TBP.seq. 
-You can obtain this by going to uniprot (https://www.uniprot.org/uniprot/P20226). 
+- Obtain the sequence of your protein of intersest and save it as TBP.seq. 
+- You can obtain this by going to uniprot (https://www.uniprot.org/uniprot/P20226). 
 
 `cat TBP.seq`
 
