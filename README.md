@@ -3,8 +3,7 @@ Generates a figure that combines ConSurf, PSIPRED, DISOPRED and PFAM data into a
 
 An example of files needed and resulting output is provided in the TBP directory.
 
-![Image of TBP](https://github.com/avibpatel/Domains/blob/master/TBP/TBP.png)
-![Image of Legend](https://github.com/avibpatel/Domains/blob/master/TBP/Legend.png)
+![Image of Demo](https://github.com/avibpatel/Domains/blob/master/Figures/Demo.png)
 
 ## Procedure
 
