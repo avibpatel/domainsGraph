@@ -22,8 +22,13 @@ Using the downloaded sequence run:
     - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@where.something)]
     - Download: `Amino Acid Conservation Scores, Confidence Intervals and Conservation Colors` and save at TBP.grades
 
-PSIPRED 4.0 and DISOPRED3 (http://bioinf.cs.ucl.ac.uk/psipred/)
-PFAM (https://pfam.xfam.org/search/sequence)
+- PSIPRED 4.0 and DISOPRED3 (http://bioinf.cs.ucl.ac.uk/psipred/)
+    - [Select: PSIPRED 4.0 and DISOPRED3]
+    - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@where.something)]
+    - Download: .comb and .ss2 files and rename as TBP.comb and TBP.ss2 respectively
+    
+- PFAM (https://pfam.xfam.org/search/sequence)
+    
 
 
 
