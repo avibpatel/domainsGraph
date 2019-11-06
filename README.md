@@ -31,7 +31,7 @@ Use the downloaded fasta sequence run:
     - [Input: Seqence (MDQNN....)}
     - Copy output table: `Significant Pfam-A Matches` and save as a text file called TBP.txt
     - Optional: Modify the PFAM file to custom define domains
-        - Domains.py reads the first column to define the domain name and columns 5 and 6 for the limits of that domain.
+        - First column defines domain name and columns 5 and 6 define the limits of that domain.
  
 #### Step 4:
 - Fragments (Optional: If you want to mark modeled regions)
