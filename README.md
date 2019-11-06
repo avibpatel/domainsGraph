@@ -43,7 +43,9 @@ Use the downloaded fasta sequence run:
     - Run Domains.py:
 
 `C:\Users\Github_demo\TBP> py .\Domains.py`
+
 `Whats the name of the protein: TBP`
+
 `Whats the color do you want the protein to be: red`
         
 
