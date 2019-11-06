@@ -27,9 +27,9 @@ An example of files needed and resulting output is provided in the TBP directory
 
 #### Step 3:
 Using the downloaded sequence run: 
-ConSurf (http://consurf.tau.ac.il/)
-[Select: Amino-Acids, NO, NO, automatically]
-[Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@where.something)]
+- ConSurf (http://consurf.tau.ac.il/)
+    - [Select: Amino-Acids, NO, NO, automatically]
+    - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@where.something)]
 
 Download: `Amino Acid Conservation Scores, Confidence Intervals and Conservation Colors` and save at TBP.grades
 
