@@ -31,10 +31,17 @@ Use the downloaded fasta sequence run:
     - [Input: Seqence (MDQNN....)}
     - Copy output table: `Significant Pfam-A Matches` and save as a text file called TBP.txt
     - Optional: Modify the PFAM file to custom define domains
-        - Domains.py reads 
+        - Domains.py reads the first column to define the domain name and columns 5 and 6 for the limits of that domain.
  
 #### Step 4:
-If you want mark certain regions of interst of the protein sequence  
+- Fragments (Optional: If you want to mark modeled regions)
+    - Create a file named TBP_fragements.txt
+    - List regions you have modeled: `155-333`
+
+- Run Domains.py 
+    - Open a terminal and navigate your directory that contains all of the downloaded files
+    - Run Domains.py:
+        
 
     
 
