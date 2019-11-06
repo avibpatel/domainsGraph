@@ -30,8 +30,11 @@ Use the downloaded fasta sequence run:
 - PFAM (https://pfam.xfam.org/search/sequence)
     - [Input: Seqence (MDQNN....)}
     - Copy output table: `Significant Pfam-A Matches` and save as a text file called TBP.txt
-
+    - Optional: Modify the PFAM file to custom define domains
+        - Domains.py reads 
+ 
 #### Step 4:
+If you want mark certain regions of interst of the protein sequence  
 
     
 
