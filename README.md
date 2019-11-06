@@ -36,11 +36,15 @@ Use the downloaded fasta sequence run:
 #### Step 4:
 - Fragments (Optional: If you want to mark modeled regions)
     - Create a file named TBP_fragements.txt
-    - List regions you have modeled: `155-333`
+    - List regions you have modeled: `155-333` (from PDB 1CDW)
 
 - Run Domains.py 
     - Open a terminal and navigate your directory that contains all of the downloaded files
     - Run Domains.py:
+
+C:\Users\Github_demo\TBP> py .\Domains.py 
+Whats the name of the protein: TBP
+Whats the color do you want the protein to be: red
         
 
     
