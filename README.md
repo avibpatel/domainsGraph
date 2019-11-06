@@ -42,9 +42,9 @@ Use the downloaded fasta sequence run:
     - Open a terminal and navigate your directory that contains all of the downloaded files
     - Run Domains.py:
 
-C:\Users\Github_demo\TBP> py .\Domains.py 
-Whats the name of the protein: TBP
-Whats the color do you want the protein to be: red
+`C:\Users\Github_demo\TBP> py .\Domains.py`
+`Whats the name of the protein: TBP`
+`Whats the color do you want the protein to be: red`
         
 
     
