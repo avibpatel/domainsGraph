@@ -6,7 +6,7 @@ An example of files needed and resulting output is provided in the TBP directory
 ![Image of Demo](https://github.com/avibpatel/Domains/blob/master/Figures/Demo.png)
 
 ## Procedure
-Example for TBP (TATA-box binding protein)
+Example for human TBP (TATA-box binding protein)
 
 #### Step 1:
 - Make a folder on your computer to compile and run domains.py.
