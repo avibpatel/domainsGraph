@@ -20,12 +20,12 @@ Example for human TBP (TATA-box binding protein)
 Use the downloaded fasta sequence run: 
 - ConSurf (http://consurf.tau.ac.il/)
     - [Select: Amino-Acids, NO, NO, automatically]
-    - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@where.something)]
+    - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@some.where)]
     - Download: `Amino Acid Conservation Scores, Confidence Intervals and Conservation Colors` and save at TBP.grades
 
 - PSIPRED 4.0 and DISOPRED3 (http://bioinf.cs.ucl.ac.uk/psipred/)
     - [Select: PSIPRED 4.0 and DISOPRED3]
-    - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@where.something)]
+    - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@some.where)]
     - Download: `SS2 Format Output` and `COMB NN Output` files and rename as TBP.ss2 and TBP.comb respectively
     
 - PFAM (https://pfam.xfam.org/search/sequence)
