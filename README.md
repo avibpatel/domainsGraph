@@ -6,14 +6,15 @@ An example of files needed and resulting output is provided in the TBP directory
 ![Image of Demo](https://github.com/avibpatel/Domains/blob/master/Figures/Demo.png)
 
 ## Procedure
+Example for TBP (TATA-box binding protein)
 
 #### Step 1:
 - Make a folder on your computer to compile and run domains.py.
 - Download Domains.py and copy it into your new folder 
 
 #### Step 2:
-- Obtain the sequence of your protein of intersest and save it as TBP.seq. 
-- You can obtain this by going to uniprot (https://www.uniprot.org/uniprot/P20226). 
+- Obtain the sequence of your protein of interest and save it as TBP.seq. 
+    - You can obtain this by searching uniprot (https://www.uniprot.org/uniprot/P20226) 
 
 #### Step 3:
 Use the downloaded fasta sequence run: 
@@ -40,6 +41,8 @@ Use the downloaded fasta sequence run:
 
 - Run Domains.py 
     - Open a terminal and navigate your directory that contains all of the downloaded files
+        - You should have the following files: TBP.seq, TBP.grades, TBP.ss2, TBP.comb, TBP.txt, TBP_fragemnts.txt
+        - All files should havre the same name. You will provide this name (TBP in this case) to Domains.py.  
     - Run Domains.py:
 
 C:\Users\Github_demo\TBP> `py .\Domains.py`
