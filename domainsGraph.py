@@ -41,7 +41,7 @@ coil=[]
 ss=[]
 psi=[]
 
-c=1
+c=0
 for line in sl:
     ll=line.split()
     if len(ll) == 6:
