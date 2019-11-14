@@ -1,4 +1,4 @@
-# Domains
+# domainsGraph
 Generates a single figure that combines ConSurf, PSIPRED, DISOPRED and PFAM data.
 
 An example of files needed and resulting outputs are provided in the TBP directory.
