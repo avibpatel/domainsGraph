@@ -1,7 +1,7 @@
 # Domains
 Generates a single figure that combines ConSurf, PSIPRED, DISOPRED and PFAM data.
 
-An example of files needed and resulting output is provided in the TBP directory.
+An example of files needed and resulting outputs are provided in the TBP directory.
 
 ![Image of Demo](https://github.com/avibpatel/Domains/blob/master/Figures/Demo.png)
 
