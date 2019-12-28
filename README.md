@@ -47,9 +47,9 @@ Use the downloaded fasta sequence run:
 
 C:\Users\Github_demo\TBP> `py .\Domains.py`
 
-Whats the name of the protein: `TBP`
+What is the name of the protein: `TBP`
 
-Whats the color do you want the protein to be: `red`
+What color do you want the protein to be: `red`
 
    - The there should be 3 new files in your directory: `TBP.pdf`, `TBP.svg` and `TBP_seq.svg`
        - All files are editable in illustrator or vector art programs. 
