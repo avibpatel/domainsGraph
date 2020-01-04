@@ -13,7 +13,7 @@ Example for human TBP (TATA-box binding protein)
 - Download Domains.py and copy it into your new folder 
 
 #### Step 2:
-- Obtain the sequence of your protein of interest and save it as TBP.seq. 
+- Obtain the sequence of your protein of interest and save it as [TBP.seq] (https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.seq). 
     - You can obtain this by searching uniprot (https://www.uniprot.org/uniprot/P20226) 
 
 #### Step 3:
