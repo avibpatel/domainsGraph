@@ -21,23 +21,24 @@ Use the downloaded fasta sequence run:
 - ConSurf (http://consurf.tau.ac.il/)
     - [Select: Amino-Acids, NO, NO, automatically]
     - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@some.where)]
-    - Download: `Amino Acid Conservation Scores, Confidence Intervals and Conservation Colors` and save at TBP.grades
+    - Download: `Amino Acid Conservation Scores, Confidence Intervals and Conservation Colors` and save at [TBP.grades](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.grades)
 
 - PSIPRED 4.0 and DISOPRED3 (http://bioinf.cs.ucl.ac.uk/psipred/)
     - [Select: PSIPRED 4.0 and DISOPRED3]
     - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@some.where)]
-    - Download: `SS2 Format Output` and `COMB NN Output` files and rename as TBP.ss2 and TBP.comb respectively
+    - Download: `SS2 Format Output` and `COMB NN Output` files and rename as [TBP.ss2](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.ss2) and [TBP.comb](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.comb) respectively
     
 - PFAM (https://pfam.xfam.org/search/sequence)
     - [Input: Seqence (MDQNN....)}
-    - Copy output table: `Significant Pfam-A Matches` and save as a text file called TBP.txt
+    - Copy output table: `Significant Pfam-A Matches` and save as a text file called [TBP.txt](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.txt)
     - Optional: Modify the PFAM file to custom define domains
         - First column defines domain name and columns 5 and 6 define the limits of that domain.
  
 #### Step 4:
 - Fragments (Optional: If you want to mark modeled regions)
-    - Create a file named TBP_fragements.txt
+    - Create a file named [TBP_fragements.txt](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP_fragments.txt)
     - List regions you have modeled: `155-333` (from PDB 1CDW)
+        - IF you have multiple fragment add other regions in another lines
 
 - Run Domains.py 
     - Open a terminal and navigate your directory that contains all of the downloaded files
