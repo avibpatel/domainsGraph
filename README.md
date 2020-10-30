@@ -41,7 +41,7 @@ Use the downloaded fasta sequence run:
         - IF you have multiple fragment add other regions in another lines
 
 - Run Domains.py 
-    - Open a terminal and navigate your directory that contains all of the downloaded files
+    - Open a terminal and navigate to the directory that contains all of the downloaded files
         - You should have the following files: TBP.seq, TBP.grades, TBP.ss2, TBP.comb, TBP.txt, TBP_fragemnts.txt
         - All files should havre the same name. You will provide this name (TBP in this case) to Domains.py.  
     - Run Domains.py:
