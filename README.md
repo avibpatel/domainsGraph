@@ -38,7 +38,7 @@ Use the downloaded fasta sequence and run:
 - Fragments (Optional: If you want to mark modeled regions)
     - Create a file named [TBP_fragements.txt](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP_fragments.txt)
     - List regions you have modeled: `155-333` (from PDB 1CDW)
-        - IF you have multiple fragment add other regions in another lines
+        - If you have multiple fragment add other regions in another lines
 
 - Run Domains.py 
     - Open a terminal and navigate to the directory that contains all of the downloaded files
