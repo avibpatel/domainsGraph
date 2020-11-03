@@ -17,7 +17,7 @@ Example for human TBP (TATA-box binding protein)
     - You can obtain this by searching uniprot (https://www.uniprot.org/uniprot/P20226) 
 
 #### Step 3:
-Use the downloaded fasta sequence run: 
+Use the downloaded fasta sequence and run: 
 - ConSurf (http://consurf.tau.ac.il/)
     - [Select: Amino-Acids, NO, NO, automatically]
     - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@some.where)]
