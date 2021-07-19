@@ -43,7 +43,7 @@ Use the downloaded fasta sequence to run:
 - Run Domains.py 
     - Open a terminal and navigate to the directory that contains all of the downloaded files
         - You should have the following files: TBP.seq, TBP.grades, TBP.ss2, TBP.comb, TBP.txt, TBP_fragemnts.txt
-        - All files should havre the same name. You will provide this name (TBP in this case) to Domains.py.  
+        - All files should have the same name. You will provide this name (TBP in this case) to Domains.py.  
     - Run Domains.py:
 
 C:\Users\Github_demo\TBP> `py .\Domains.py`
