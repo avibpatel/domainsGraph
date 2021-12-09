@@ -61,7 +61,7 @@ What color do you want the protein to be: `red`
 ## Citations
 
 - Consurf (http://consurf.tau.ac.il/credits.php)
-- PSIPRED & DISOPRED (http://bioinf.cs.ucl.ac.uk/psipred/) 
+- PSIPRED & DISOPRED (http://bioinfadmin.cs.ucl.ac.uk/UCL-CS_Bioinformatics_PSIPRED_citation.html) 
 - PFAM (https://pfam.xfam.org/)
 
     
