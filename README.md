@@ -30,7 +30,7 @@ Use the downloaded fasta sequence to run:
     
 - PFAM (https://pfam.xfam.org/search/sequence) or (https://www.ebi.ac.uk/Tools/pfa/pfamscan/)
     - [Input: Seqence (MDQNN....) and Output Format > Plain Text]
-    - Copy output table: `Significant Pfam-A Matches` and save as a text file called [TBP.txt](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.txt) or download Tool Output `pfamscan-*.output` and save as a text file called [TBP.txt]
+    - Copy output table: `Significant Pfam-A Matches` and save as a text file called [TBP.txt](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.txt) or download Tool Output `pfamscan-*.output` and save as a text file called TBP.txt
     - Optional: Modify the PFAM file to custom define domains
         - First column defines domain name and columns 5 and 6 define the limits of that domain.
  
