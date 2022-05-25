@@ -3,13 +3,13 @@ from matplotlib.patches import Rectangle
 import matplotlib.patheffects as PathEffects
 
 ### Inputs ###
-protein = input("What is the name of the protein: ")
+protein = input("Whats the name of the protein: ")
 seq = protein + '.seq' #input("Path to fasta file of protein seq: ")
 grades = protein + '.grades' #input("Path to grades file from consurf: ") 
 ss2 = protein + '.ss2' #input("Path to ss2 file from psipred: ")
 comb = protein + '.comb' #input("Path to combs file from disopred3: ")
 pfam = protein + '.txt' #input("Path to PFAM text file: ")
-clr = input("What color do you want the protein to be: ")
+clr = input("Whats the color do you want the protein to be: ")
 show = 'Y' #input("Would you like to include the aa seq and numbering(Y/N)")
 frags = protein + '_fragments.txt'
 
@@ -90,9 +90,12 @@ pl = pf.readlines()
 plist=[]
 for line in pl:
     ll=line.split()
+    if len(ll) > 0:
+        if ll[0] == 'EMBOSS_001':  
+            plist.append([ll[6],int(ll[3]),int(ll[4])])
     if ll[-1] == 'Show':  
         plist.append([ll[0],int(ll[-11]),int(ll[-10])])
-
+        
 ### Fragments ###
 try:
     ff = open(frags)
