@@ -10,7 +10,7 @@ Example for human TBP (TATA-box binding protein)
 
 #### Step 1:
 - Make a folder on your computer to compile and run domains.py.
-- Download Domains.py and copy it into your new folder 
+- Download domainsGraph.py and copy it into your new folder 
 
 #### Step 2:
 - Obtain the sequence of your protein of interest and save it as [TBP.seq](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.seq). 
@@ -28,9 +28,9 @@ Use the downloaded fasta sequence to run:
     - [Input: Protein seqence (MDQNN....), Job title (TBP), User E-Mail (your.email@some.where)]
     - Download: `SS2 Format Output` and `COMB NN Output` files and rename as [TBP.ss2](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.ss2) and [TBP.comb](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.comb) respectively
     
-- PFAM (https://pfam.xfam.org/search/sequence)
-    - [Input: Seqence (MDQNN....)}
-    - Copy output table: `Significant Pfam-A Matches` and save as a text file called [TBP.txt](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.txt)
+- PFAM (https://pfam.xfam.org/search/sequence) or (https://www.ebi.ac.uk/Tools/pfa/pfamscan/)
+    - [Input: Seqence (MDQNN....) and Output Format > Plain Text]
+    - Copy output table: `Significant Pfam-A Matches` and save as a text file called [TBP.txt](https://github.com/avibpatel/domainsGraph/blob/master/TBP/TBP.txt) or download Tool Output `pfamscan-*.output` and save as a text file called [TBP.txt]
     - Optional: Modify the PFAM file to custom define domains
         - First column defines domain name and columns 5 and 6 define the limits of that domain.
  
