@@ -155,7 +155,7 @@ aad={
 ### PLot ###
 plt.figure(figsize=(aa/10,5))
 plt.ylim((-.5,1.6))
-plt.xlim((-25,aa))
+plt.xlim((-25,aa+1))
 plt.axis('off')
 
 #consurf
