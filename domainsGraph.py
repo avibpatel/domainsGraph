@@ -93,8 +93,8 @@ for line in pl:
     if len(ll) > 0:
         if ll[0] == 'EMBOSS_001':  
             plist.append([ll[6],int(ll[3]),int(ll[4])])
-    if ll[-1] == 'Show':  
-        plist.append([ll[0],int(ll[-11]),int(ll[-10])])
+        if ll[-1] == 'Show':  
+            plist.append([ll[0],int(ll[-11]),int(ll[-10])])
         
 ### Fragments ###
 try:
