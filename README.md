@@ -53,10 +53,10 @@ What is the name of the protein: `TBP`
 
 What color do you want the protein to be: `red`
 
-   - The there should be 3 new files in your directory: `TBP.pdf`, `TBP.svg` and `TBP_seq.svg`
-       - All files are editable in illustrator or vector art programs. 
+   - There should be 3 new files in your directory: `TBP.pdf`, `TBP.svg` and `TBP_seq.svg`
+       - All files are editable in illustrator or any vector art programs. 
        - TBP.pdf is the smallest and easiiest file to work with if you do not plan on editing the figure
-       - TBP.svg is more easily editable version of TBP.pdf
+       - TBP.svg is the more easily editable version 
        - TBP_seq.svg contains the sequence of TBP embeded into the figure. This can be useful for model building... or showing a zoomed in view of a specific part of your protein. 
        
 ## Citations
